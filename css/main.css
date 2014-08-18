@@ -1,0 +1,49 @@
+.divcss5{
+    border:1px dashed #000;
+    height:240px;
+    width:380px;
+    text-align: center;
+}
+.centertext{
+    font-size: 35px;
+    margin-top: 90px;
+}
+.footer{
+    font-family: "微软雅黑";
+    font-size: 13px;
+    text-align: center;
+}
+.logout{
+    padding-top: 3px;
+    float: right;
+    color: #FFF;
+    text-decoration:none;
+    font-size: 16px;
+}
+.welcome{
+    font-size: 22px;
+}
+.home{
+    text-decoration:none;
+    color: #FFF;
+}
+#type_sel{
+    height: 20px;
+    width:17%;
+}
+.notic{
+    color: #BBBBBB;
+}
+td{
+    line-height:1.5;
+}
+#search_logs, #search_admins, #search_cards{
+    margin-top: -5px;
+}
+#add_admin_type{
+    margin-bottom: 10px;
+}
+#add_admin_sel_spot{
+    padding-bottom: 6px;
+    margin-top: 10px;
+}
